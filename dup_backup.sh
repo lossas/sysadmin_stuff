@@ -1,7 +1,9 @@
 #!/bin/bash
 
-export AWS_ACCESS_KEY_ID=AKIAJSKXUNXHHDH7ATFA
-export AWS_SECRET_ACCESS_KEY=esuML6DY5ekSYcICpBe/Ev59Avv3sQptp4BQrd9t
+###########################################################
+# You might need to export your aws access and secret keys#
+##########################################################
+
 
 echo "give the private ip of the instance:"
 read pr_ip
